@@ -1,0 +1,8 @@
+.DS_Store
+._*
+*.swp
+*~
+.env
+.env.*
+*.local
+.claude/
